@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"ecs","Source":"./modules/ecs","Dir":"modules/ecs"},{"Key":"networking","Source":"./modules/networking","Dir":"modules/networking"},{"Key":"rds","Source":"./modules/rds","Dir":"modules/rds"},{"Key":"s3","Source":"./modules/s3","Dir":"modules/s3"}]}
